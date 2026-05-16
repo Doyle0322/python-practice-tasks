@@ -23,8 +23,8 @@
 
 ### Task 03 :返回重命名计划
 练习内容：
--list 列表
--append()
--tuple 元组
--return 返回结果
+- list 列表
+- append()
+- tuple 元组
+- return 返回结果
 - 将打印式脚本改成可复用函数
