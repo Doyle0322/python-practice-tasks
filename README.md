@@ -34,8 +34,13 @@
 - 字典
 - 文件后缀统计
 - 键值对
-
+f
 ### Task 05： 统计图片的总数量
 练习内容：
 - dict.values()
 - sum
+
+### Task 06: 汇报图片内容
+练习内容： 
+- with open () as
+- f.write
