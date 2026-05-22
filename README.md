@@ -44,3 +44,11 @@ f
 练习内容： 
 - with open () as
 - f.write
+
+  ### Task 07 : 读取外部配置文件
+  联系内容
+  - readlines()
+  -  .strip # 去掉 这一行末尾恶心的换行符\n
+  -  split('=')
+  -  字典名[键盘] = value
+  -  
