@@ -62,4 +62,10 @@ f
 练习内容
 - try:
 - except:
+
+### Task 10: Json 初步
+练习内容
+- import json
+- json.load() 将外部json 文件变成字典
+
   
