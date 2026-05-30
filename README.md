@@ -1,6 +1,6 @@
 # Python Practice Tasks
 
-这个仓库用来记录我的 Python 基础练习和小工具任务。
+这个仓库用来记录CS小白从0-1 借助AI 完成 Python 基础练习和小工具任务。
 
 ## 当前任务
 
