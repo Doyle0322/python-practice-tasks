@@ -68,4 +68,8 @@ f
 - import json
 - json.load() 将外部json 文件变成字典
 
-  
+### Task 11: 深层目录文件搜索
+练习内容
+- os.walk()
+- 复习 endswith(('',''))
+- 复习 os.join() 
