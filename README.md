@@ -74,6 +74,7 @@ f
 - 复习 endswith(('',''))
 - 复习 os.join() 
 
-#### 开始 学习 ai-engineering-from-scratch
+### 开始 学习 ai-engineering-from-scratch
 
-### Task 12 : 手搓一个贝叶斯计算器 ：P(A|B) = [P(B|A) * P(A)]/P(B) :注意这个B不是单一一个数字 而是需要你计算
+### Task 12 : 手搓一个贝叶斯计算器 
+P(A|B) = [P(B|A) * P(A)]/P(B) :注意这个B不是单一一个数字 而是需要你计算
